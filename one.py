@@ -3,7 +3,7 @@ from colorama import init, Fore, Style
 
 init(autoreset=True)  # automatically reset colors after each print
 
-API_KEY = "74073f1d71032474092aa55018960419"
+API_KEY = "enter your API key of openweathermap.org"
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather?"
 
 def get_weather(city):

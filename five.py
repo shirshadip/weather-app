@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-API_KEY = "74073f1d71032474092aa55018960419"
+API_KEY = "enter your API key of openweathermap.org"
 
 def get_forecast(city):
     """
